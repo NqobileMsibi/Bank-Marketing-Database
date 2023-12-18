@@ -1,6 +1,6 @@
 # Google-Play-Store-Project
 # TASK:
-# Data import and cleaning:
+Data import and cleaning:
 - Importing the data set into Excel
 - Identifying and correcting data errors, discrepancies and inconsistencies
 - Removing duplicate or irrelevant data
