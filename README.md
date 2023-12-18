@@ -1,5 +1,5 @@
 # Bank-Marketing-Database
-# TASK:
+# Task:
 I have supplied with a csv file called "bank_marketing.csv", which I will need to clean, reformat, and split, in order to save separate files based on the tables you will create.
 
 # Actions:
