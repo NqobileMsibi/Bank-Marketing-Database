@@ -34,3 +34,8 @@ Data exploration:
 
 Data visualization:
 - In Tableau, I created charts and graphs to visualize the data, spot trends and identify patterns.
+
+# Results:
+1. Based on the analysis we have discovered that the most popular category is the Family category with 1826 apps, accounting for 19% of all apps and the average rating is 4.2 out of 5 indicating that it's a successful category.
+2. With over 5000 apps receiving above 4-5 rating, it shows that the everyone content rating is the most favourable rating. It shows that a large number of apps cater to all ages.
+3. The massive gap in download rates, with free applications getting 92.2% of downloads compared to paid apps getting 7.8%. This might suggest that users are likely to try free apps more which may or not eventually lead them to decide whether they want to get a premium version or ad-free version of the app.
