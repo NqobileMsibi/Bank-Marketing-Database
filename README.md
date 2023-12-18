@@ -26,9 +26,11 @@ Data cleaning:
 - Using the filer tool removed the empty rows
 - Changed the price column since it's showing as a string column
 - Changed the size from M to MB and K to KB
+
 Data exploration:
 - Using pivot tables found a lot of nan values in the ratings column, various with device in the size column and null values in the size column
 - Grouped the ratings for ease of use as the data would be inaccurate
 - Analyzed the data by calculating metrics like averages, percentages
+
 Data visualization:
 - In Tableau, I created charts and graphs to visualize the data, spot trends and identify patterns.
